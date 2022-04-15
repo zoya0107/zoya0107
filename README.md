@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zoya0107
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning Spring
+- 🌱 I’m currently learning Spring Boot
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
